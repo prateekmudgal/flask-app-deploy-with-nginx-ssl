@@ -192,7 +192,10 @@ sudo apt install certbot python3-certbot-nginx
 sudo certbot --nginx -d your_domain.com
 ```
 
-Follow the prompts to configure SSL. Once successful, Certbot will edit your Nginx configuration to enable SSL.
+Follow the prompts to configure SSL. Once successful, Certbot will edit your Nginx configuration to enable SSL.![Screenshot (228)](https://github.com/prateekmudgal/flask-app-deploy-with-nginx-ssl/assets/115731219/a4fb3b9f-63ab-40b2-b794-8e3b8181050c)
+
+
+
 
 ## Step 9: Set up Automatic SSL Renewal with Cron
 
