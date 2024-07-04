@@ -228,6 +228,6 @@ If you find any issue in it then let me know.
     <th><a href="mailto:mudgalprateek00@gmail.com" target="_blank"><img src="https://img.icons8.com/color/344/gmail-new.png" alt="Mail" width="30"/><a/>
 </th>
   </tr>
-</table>) -->
+</table>) 
 
 
