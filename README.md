@@ -1,8 +1,4 @@
-#Deploying Flask Application with Nginx and SSL
 
-Based on the commands you've provided, here is a structured README file for deploying your Flask application on an Nginx server with SSL and setting up automatic SSL renewal using a cronjob:
-
----
 
 # README: Deploying Flask Application with Nginx and SSL
 
